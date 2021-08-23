@@ -5,7 +5,7 @@
 - I will attach screenshots below showing the endpoints and their success. I ran into problems on the update endpoint, but I will fix that later when I find the solution.
 
 - Here is the register endpoint!
-https://user-images.githubusercontent.com/79724560/130486218-e8ebd177-fde3-41ee-926b-3d1fb73c2806.png
+[image]https://user-images.githubusercontent.com/79724560/130486218-e8ebd177-fde3-41ee-926b-3d1fb73c2806.png
 
 - Here is the login endpoint!
 https://user-images.githubusercontent.com/79724560/130486401-03bc3caf-a34a-45b5-bad7-5c1d11ebd673.png
